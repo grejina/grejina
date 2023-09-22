@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grejina
-- 👀 I’m interested in coding and buildig games
+- 👀 I’m interested in coding and building games
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Github
 - 📫 Reach me @rezzyg_ (Instagram)
